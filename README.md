@@ -1,24 +1,26 @@
-# contoh-vue-app
+# Vue.js Vue Singkat
 
-## Project setup
-```
-npm install
-```
+Dibuat untuk keperluan contoh penggunaan Vue.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Teknologi yang Digunakan
+- **Vue.js**: Framework JavaScript untuk membangun antarmuka pengguna.
+- **HTML & CSS**: Untuk struktur dan gaya halaman.
+- **Font Awesome**: Untuk ikon sosial media.
+- **Flexbox & CSS Grid**: Untuk tata letak responsif.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Prasyarat
+Hal-hal yang harus terinstal di dalam sistem:
 
-### Lints and fixes files
-```
-npm run lint
-```
+- **Node.js** dan **npm** (Node Package Manager)
+  - Anda bisa mendownload dan menginstall Node.js dari [https://nodejs.org](https://nodejs.org)
+  - Setelah menginstall Node.js, pastikan npm terinstal dengan menjalankan:
+    ```powershell
+    npm -v
+    ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Langkah Menjalankan Apps
+
+### 1. Clone Repositori
+Clone repositori ini ke dalam folder lokal Anda:
+```powershell
+git clone https://github.com/username/my-vue-app.git
